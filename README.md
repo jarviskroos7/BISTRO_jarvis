@@ -1,4 +1,4 @@
-<!--Logo Goes Here!-->
+# `BISTRO` Starter Kit
 
 <!--This repository is a Starter Kit for the **Uber 2019 ML Hackathon** on **[AICrowd](https://www.aicrowd.com/challenges/uber-prize)**. !-->
 

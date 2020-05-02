@@ -69,7 +69,7 @@ machine. However, it is plausible to develop locally using the 1k scenario,
 since a **single** iteration may take only ~30 seconds. 
 
 - Common errors encountered and maybe a debug log?
-	-	Yes, we have a [debug log](https://docs.google.com/document/d/14d0_50TfiszSlDvM7pLQIzUpkV8dK4HZHNtZWJRCE5s/edit?usp=sharing) put together when updating the Starter-Kit. Though so far the issues listed there have been resolved with the latest docker image `0.0.3-noacc-SNAPSHOT`, but you are welcomed to have a look, contact [Jarvis Yuan](mailto: jarviskroos7@berkeley.edu) for any questions.
+	-	Yes, we have a [debug log](https://docs.google.com/document/d/14d0_50TfiszSlDvM7pLQIzUpkV8dK4HZHNtZWJRCE5s/edit?usp=sharing) put together when updating the Starter-Kit. Though so far the issues listed there have been resolved with the latest docker image `0.0.3-noacc-SNAPSHOT`, but you are welcomed to have a look, contact [Jarvis Yuan](mailto:jarviskroos7@berkeley.edu) for any questions.
 
 ---
 If you feel like your question/concern has not been addressed here in the FAQs, please return to the [contribution page](.github/CONTRIBUTING.md) and submit a bug report to us!

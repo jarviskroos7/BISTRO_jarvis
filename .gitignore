@@ -238,7 +238,7 @@ gen### Java template
 *.war
 *.nar
 *.ear
-*.zip
+# included .zip files update_v0501-jarvis
 *.tar.gz
 *.rar
 
